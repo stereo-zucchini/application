@@ -1,0 +1,8 @@
+kornia
+torch
+opencv-python
+open3d
+plotly
+gradio
+scipy
+numpy==1.24
